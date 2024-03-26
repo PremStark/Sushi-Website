@@ -24,7 +24,7 @@ Welcome to Sushiman, a beginner-friendly project aimed at showcasing the delicio
 
 ### Clone the Repository:
 
-1. git clone https://github.com/adrianhajdin/project_html_css_website.git
+1. git clone https://github.com/PremStark/Sushi-Website.git
 2. cd project_html_css_website
 
 ### Installation:
