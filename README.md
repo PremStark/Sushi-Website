@@ -2,6 +2,8 @@
 
 Welcome to Sushiman, a beginner-friendly project aimed at showcasing the delicious world of Japanese cuisine, particularly sushi. This project is developed using HTML and CSS with smooth subtle animations, making it an excellent resource for learning web development basics.
 
+## Preview
+
 ![Sushiman](Sushi.png)
 
 ## 🍣 Features
