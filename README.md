@@ -23,16 +23,6 @@ Welcome to Sushiman, a beginner-friendly project aimed at showcasing the delicio
 2. CSS 3
 3. Javascript
 4. Vite
-
-## 🚀 Quick Start
-
-### Clone the Repository:
-
-1. git clone https://github.com/PremStark/Sushi-Website.git
-2. cd project_html_css_website
-
-### Installation:
-
 npm install
 
 ### Running the Project:
