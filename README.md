@@ -23,9 +23,3 @@ Welcome to Sushiman, a beginner-friendly project aimed at showcasing the delicio
 2. CSS 3
 3. Javascript
 4. Vite
-npm install
-
-### Running the Project:
-
-npm run dev
-
